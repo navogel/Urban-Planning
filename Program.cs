@@ -6,6 +6,14 @@ namespace Planner
     {
         static void Main(string[] args)
         {
+            City LosAlamos = new City()
+            {
+                Mayor = "Steve B",
+                Founded = DateTime.Now,
+                Name = "LasAlamos"
+            };
+
+
             Building FiveOneTwoEigth = new Building("512 8th Avenue")
             {
                 Width = 23.5,
@@ -26,14 +34,17 @@ namespace Planner
             };
             FiveOneTwoEigth.Construct();
             FiveOneTwoEigth.Purchase("steve stevely");
-            FiveOneTwoEigth.GetInfo();
+            LosAlamos.AddBuilding(FiveOneTwoEigth);
             SixSeven.Construct();
             SixSeven.Purchase("Bill Mcgee");
-            SixSeven.GetInfo();
+            LosAlamos.AddBuilding(SixSeven);
             EightNine.Construct();
             EightNine.Purchase("Willie Am");
-            EightNine.GetInfo();
+            LosAlamos.AddBuilding(EightNine);
+
+            LosAlamos.CityInfo();
             
+
             
         }
     }
