@@ -1,0 +1,11 @@
+C:\Nate2019\NSS\workspace\c#\Planner\bin\Debug\netcoreapp3.0\Planner.exe
+C:\Nate2019\NSS\workspace\c#\Planner\bin\Debug\netcoreapp3.0\Planner.deps.json
+C:\Nate2019\NSS\workspace\c#\Planner\bin\Debug\netcoreapp3.0\Planner.runtimeconfig.json
+C:\Nate2019\NSS\workspace\c#\Planner\bin\Debug\netcoreapp3.0\Planner.runtimeconfig.dev.json
+C:\Nate2019\NSS\workspace\c#\Planner\bin\Debug\netcoreapp3.0\Planner.dll
+C:\Nate2019\NSS\workspace\c#\Planner\bin\Debug\netcoreapp3.0\Planner.pdb
+C:\Nate2019\NSS\workspace\c#\Planner\obj\Debug\netcoreapp3.0\Planner.csprojAssemblyReference.cache
+C:\Nate2019\NSS\workspace\c#\Planner\obj\Debug\netcoreapp3.0\Planner.AssemblyInfoInputs.cache
+C:\Nate2019\NSS\workspace\c#\Planner\obj\Debug\netcoreapp3.0\Planner.AssemblyInfo.cs
+C:\Nate2019\NSS\workspace\c#\Planner\obj\Debug\netcoreapp3.0\Planner.dll
+C:\Nate2019\NSS\workspace\c#\Planner\obj\Debug\netcoreapp3.0\Planner.pdb
