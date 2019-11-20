@@ -10,6 +10,8 @@ namespace Planner
         public DateTime Founded { get; set; }
         public List<Building> Buildings = new List<Building>();
 
+        //methods
+
         public void AddBuilding(Building name)
         {
             Buildings.Add(name);
